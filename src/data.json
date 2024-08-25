@@ -1,0 +1,46 @@
+{
+    "transactions":[
+        {
+            "customerId": 1,
+            "customerName": "John",
+            "date": "2024-06-15",
+            "amount": 120
+        },
+        {
+            "customerId": 1,
+            "customerName": "John",
+            "date": "2024-06-30",
+            "amount": 80
+        },
+        {
+            "customerId": 1,
+            "customerName": "John",
+            "date": "2024-07-10",
+            "amount": 150
+        },
+        {
+            "customerId": 2,
+            "customerName": "Mary",
+            "date": "2024-06-01",
+            "amount": 20
+        },
+        {
+            "customerId": 2,
+            "customerName": "Mary",
+            "date": "2024-07-25",
+            "amount": 90
+        },
+        {
+            "customerId": 2,
+            "customerName": "Mary",
+            "date": "2024-08-15",
+            "amount": 200
+        },
+        {
+            "customerId": 3,
+            "customerName": "David",
+            "date": "2024-07-10",
+            "amount": 70
+        }
+    ]
+}
